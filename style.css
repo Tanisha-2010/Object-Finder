@@ -1,0 +1,49 @@
+body {
+    background-image: url("https://img.wallscloud.net/uploads/thumb/114182468/hot-pink-to-bright-yellow-gradient-OJBr-1024x576-MM-80.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.heading {
+    width: 100%;
+    font-size: 25px;
+    font-family: 'Rubik Iso', cursive;
+    color: black;
+    border-radius: 15px;
+    box-shadow: 5px 5px 7px white;
+}
+
+#footer {
+    font-size: 20px;
+    font-family: 'Pacifico', cursive;
+    width: 100%;
+    background-color: white;
+    position: fixed;
+    bottom: 0;
+    line-height: 2.5;
+}
+
+canvas {
+    border: 3px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 7px black;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Pacifico', cursive;
+    color: white;
+}
+
+#status,
+#numberObjectsDetected {
+    font-size: 18px;
+    font-family: 'Pacifico', cursive;
+}
+
+input {
+    border-radius: 5px;
+    box-shadow: 3px 3px 5px white;
+    width: 300px;
+    border: 2px solid grey;
+}
